@@ -1,0 +1,8 @@
+{
+  "name": "hengchang",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "衡常 · 私人饮食与运动记录",
+  "scripts": {"test": "node --test tests/*.test.mjs"}
+}
